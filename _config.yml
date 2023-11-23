@@ -1,8 +1,8 @@
-title: "Jekyll-Theme-MDUI"
-description: "Material Design for Jekyll powered by MDUI"
+title: "Kairos' Blog"
+description: "Cybersecurity Blog"
 url: 
 baseurl: ""
-author: "KeJun"
+author: "Kairos"
 paginate: 5
 paginate_path: "/blog/page:num/"
 
