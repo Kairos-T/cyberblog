@@ -2,7 +2,7 @@ head:
    favicon: "https://ooo.0o0.ooo/2017/05/27/59294212bc16e.png" #  the favicon
    high_res_favicon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" #  the favicon using high quality format
    apple_touch_icon: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png" # the iOS Home button icon
-   keywords: "blog jekyll mdui theme" #  the site keywords
+   keywords: "Kairos Blog Cybersecurity" #  the site keywords
 
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
@@ -28,7 +28,7 @@ sns_share: # SNS Share Switch
    googleplus: false
    weibo: true
    linkedin: false
-   qq: true
+   qq: truez
    telegram: true
 
 comment:

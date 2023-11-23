@@ -13,7 +13,7 @@ cursor: # Meng cursor
 console: # Meng console info
   switch: true # Meng console info switch
   theme_info: true # output theme info
-  text: "Copyright © 2017 Jekyll-Theme-MDUI" # text
+  text: "Copyright © 2023 Kairos' Blog" # text
   color: "#fff" # text color
   background: "#448aff" # background color
 
