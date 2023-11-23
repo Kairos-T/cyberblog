@@ -1,32 +1,8 @@
-- name: bilibili
-  url: 
-
-- name: facebook
-  url: 
-
 - name: github
-  url: https://github.com
-
-- name: gplus
-  url: 
-
-- name: instagram
-  url: 
+  url: https://github.com/Kairos-T
 
 - name: linkedin
-  url: 
+  url: https://www.linkedin.com/in/kairoshestiatay/
 
 - name: telegram
-  url: https://web.telegram.org
-
-- name: tumblr
-  url: 
-
-- name: twitter
-  url: https://twitter.com/
-
-- name: weibo
-  url: 
-
-- name: zhihu
-  url: 
+  url: https://t.me/kairostay
