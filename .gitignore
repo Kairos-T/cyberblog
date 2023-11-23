@@ -1,0 +1,11 @@
+*.gem
+.bundle
+.sass-cache
+_site
+node_modules
+.jekyll-metadata
+assets/live2d
+package-lock.json
+.vscode
+.jekyll-cache
+.DS_Store
