@@ -2,8 +2,8 @@
 layout: post
 title:  "Disk Forensics: TISC'23 Disk Archaeology Challenge"
 date:   2023-11-26 00:55:06 +0800
-categories: ChatGPT
-tags: ChatGPT PromptEngineering
+categories: CTF
+tags: Forensics TISC DiskForensics
 img: https://cdn.pixabay.com/photo/2015/12/09/18/55/disc-1085277_1280.jpg
 describe: Write up for TISC'23 Disk Archaeology challenge that I found rather interesting.
 ---
