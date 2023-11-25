@@ -19,6 +19,11 @@ h1, h2, h3, p, li{
     color: #fff !important;
 }
 
+.mdui-textfield-expandable.mdui-textfield-expanded .mdui-textfield-input {
+    padding-right: 36px;
+    color: #fff !important;
+}
+
 ul.mdui-list{
     background-color: #212529de !important;
 }
