@@ -28,6 +28,11 @@ ul.mdui-list{
     background-color: #212529de !important;
 }
 
+.mdui-list-item-text {
+    font-size: 14px;
+    color: #fff;
+}
+
 h1.mdui-card-primary-title{
     margin: 0;
     font-weight: 400;
@@ -58,6 +63,10 @@ h1.mdui-card-primary-title{
     opacity: 1 !important;
     text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7);
 
+}
+
+.mdui-drawer{
+    background-color: #212529!important;
 }
 
 .bg-dark{
