@@ -53,6 +53,13 @@ h1.mdui-card-primary-title{
     color: #fff !important;
 }
 
+.mdui-card-media-covered .mdui-card-primary-subtitle {
+    color: #fff !important;
+    opacity: 1 !important;
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.7);
+
+}
+
 .bg-dark{
     background-color: #212529!important;
 }
