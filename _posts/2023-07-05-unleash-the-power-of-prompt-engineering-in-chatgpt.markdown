@@ -3,7 +3,7 @@ layout: post
 title:  "Unleash the Power of Prompt Engineering in ChatGPT - A Simple Guide"
 date:   2023-07-05 12:22:06 +0800
 categories: ChatGPT
-tags: ChatGPT PromptEngineering
+tags: ChatGPT PromptEngineering AI
 img: https://cdn.pixabay.com/photo/2018/05/11/09/02/technology-3389904_1280.jpg
 describe: A prompt is the text-based input given to natural language AI models to perform tasks. Prompt engineering is a sophisticated natural language processing (NLP) technique that enables users to elicit desired replies from language models such as ChatGPT.
 ---
