@@ -76,13 +76,13 @@ For example, we can use prompts like:
 "Provide a summary of discoveries made by cybersecurity researchers in 2010, with a reduced frequency of technical jargon."
 ```
 
-Prompt Optimisation
-Experimentation
+## Prompt Optimisation
+### Experimentation
 Prompt engineering often involves an iterative process of experimentation and refinement. Hence, users would have to experiment with different prompts and settings to achieve the desired results. By observing the model's responses, users can then refine their prompts and settings accordingly.
 
-Conclusion
+## Conclusion
 While prompt engineering can be used to empower users to elicit desired responses from language models, it is not a silver bullet. It is not a replacement for human intelligence, and should be used to complement it. Users should also be aware of the ethical considerations such as bias and misinformation that may arise from the use of prompt engineering. As research in this field advances, we can expect that prompt engineering will continue to evolve and provide us users with more control and customisations. By leveraging on the power of prompt engineering, we can harness the power of language models to generate meaningful and relevant responses to our prompts. However, it is crucial to use this power responsibly and with a critical eye towards ensuring accurate and unbiased information.
 
-References:
+## References:
 
 1. Wankhede, C. (2023). What is prompt engineering and how does it work? Android Authority. 2. Sarah P. Grant (May, 2023). What is prompt engineering? Zapier 3. Prompt Engineering Guide - Nextra. (n.d.).
