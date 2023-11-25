@@ -33,11 +33,24 @@ ul.mdui-list{
     color: #fff;
 }
 
+.mdui-list-item-content {
+    color: #fff
+}
+
+.mdui-icon, .mdui-icon::before {
+    color: #fff !important;
+}
+
 h1.mdui-card-primary-title{
     margin: 0;
     font-weight: 400;
 
 }
+
+.mdui-textfield-input {
+    color: #fff !important;
+}
+
 
 .mdui-card-header {
     background-color: #4b4f52 !important;
@@ -191,13 +204,13 @@ body,header{
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: .7;
+    opacity: 1;
     filter: invert(1);
 
 }
 
 .k-post-media {
-    opacity:0.85;
+    opacity:0.95;
 }
 
 #k-toc-card a {
