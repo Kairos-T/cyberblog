@@ -9,3 +9,4 @@ package-lock.json
 .vscode
 .jekyll-cache
 .DS_Store
+.idea
