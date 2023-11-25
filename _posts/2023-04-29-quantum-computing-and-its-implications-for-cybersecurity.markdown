@@ -3,7 +3,7 @@ layout: post
 title:  "Quantum Computing and Its Implications for Cyber Security"
 date:   2023-04-29 10:24:49 +0800
 categories: Quantum
-tags: Quantum
+tags: Quantum Cybersecurity
 img: https://cdn.pixabay.com/photo/2018/09/15/17/29/quantum-computer-3679893_1280.jpg
 author: Kairos
 describe: Quantum computing has been a buzzword in the tech industry for some time. It’s a brand-new computing innovation that will undoubtedly change how we process information.

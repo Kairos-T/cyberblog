@@ -3,7 +3,7 @@ layout: post
 title: "URL Schema Obfuscation: A Growing Malware Distribution Technique"
 date: 2023-06-04 0:0:0 +0800
 categories: Malware
-tags: Malware Web
+tags: Malware Web Cybersecurity
 img: https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png
 describe: URL Schema Obfuscation includes misusing the URL schema to obfuscate a URL's end destination.
 ---

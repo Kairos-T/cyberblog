@@ -3,7 +3,7 @@ layout: post
 title: "The Rise of Blockchain Technology and its Impacts on Cybersecurity"
 date: 2023-05-14 13:26:16 +0800
 categories: Blockchain
-tags: Blockchain
+tags: Blockchain Cybersecurity
 img: https://cdn.pixabay.com/photo/2017/01/25/15/42/bitcoin-2008262_1280.jpg
 describe: One of the most widely discussed topics in the technological sector in recent years is blockchain technology. It’s technology has advanced quickly and has begun to have a big impact on different industries.
 ---
