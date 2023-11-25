@@ -15,10 +15,18 @@ layout: null
     {% endif %}
     {% endif %}
 
+
+
 h1.mdui-card-primary-title{
     margin: 0;
     font-weight: 400;
+
 }
+
+.bg-dark{
+    background-color: #212529!important;
+}
+
 .mdui-typo table{
     margin: 0 0 1.2em 0;
     position: relative;
@@ -54,8 +62,24 @@ h1.mdui-card-primary-title{
     border-top: 1px solid rgba(0,0,0,.12);
 }
 
+.mdui-toolbar>a{
+    color: #fff;
+}
+
+.mdui-typo a {
+    color: green;
+}
+
+.mdui-btn, .mdui-fab{
+    color:#fff
+}
+
+.mdui-text-center {
+    color:#fff;
+}
+
 body,header{
-    background-color:{{site.data.site.background.purecolor}};
+    background-color: #36393d;
 }
 ::-webkit-scrollbar {
     width: 10px;
@@ -85,6 +109,7 @@ body,header{
 .k-posts-list {
     padding-top: 65px;
 }
+
 @media screen and (max-width: 600px){
     .k-posts-list {
         padding-top: 56px;
@@ -103,6 +128,7 @@ body,header{
     -webkit-align-items: center!important;
     -ms-flex-align: center!important;
     align-items: center!important;
+
     }
 }
 .k-footer-icon{
@@ -112,7 +138,10 @@ body,header{
     background-position: center;
     background-repeat: no-repeat;
     opacity: .7;
+    filter: invert(1);
+
 }
+
 {% for sns in site.data.sns %}
 {% if sns.name =='bilibili' and sns.url != null %}
 .k-bilibili{
